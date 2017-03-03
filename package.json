@@ -1,16 +1,16 @@
 {
-  "name": "crossword-scraper",
+  "name": "country-data-scraper",
   "version": "0.0.1",
-  "description": "Grab some crosswords",
+  "description": "Who you gonna call?",
   "main": "server.js",
   "author": "Tom McTiernan",
   "license": "MIT",
-  "repository": "tmct/crossword-scraper",
+  "repository": "tmct/country-data-scraper",
   "dependencies": {
     "cheerio": "latest",
     "express": "latest",
     "lodash": "latest",
-    "request-promise": "latest",
-    "urijs": "latest"
+    "request": "latest",
+    "request-promise": "latest"
   }
 }
